@@ -1,0 +1,16 @@
+{
+  "themes": [
+    {
+      "name": "keywind",
+      "types": [
+        "login"
+      ]
+    },
+    {
+      "name": "nimbit",
+      "types": [
+        "login"
+      ]
+    }
+  ]
+}
